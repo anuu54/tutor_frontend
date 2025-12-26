@@ -8,5 +8,5 @@ Frontend	React.js	Handles the component-based UI and user "memory" (State).
 Styling	Tailwind CSS	Provides a modern, utility-first design and responsive layout.
 Backend	FastAPI / Python	The high-speed engine processing AI logic and API endpoints.
 API Client	Axios	Manages the communication between the browser and the server.
-AI Engine	OpenAI / LLM	(Likely) Powers the intelligence behind the answers and quizzes.
+API used Powers the intelligence behind the answers and quizzes.
 Server	Uvicorn	The lightning-fast ASGI server that runs your Python backend.
